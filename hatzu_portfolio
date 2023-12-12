@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en"
+
+<head>
+<style>
+body {background-color:DodgerBlue;
+</style>
+
+<meta charset="UTF-8">
+<title>KangKong</title>
+
+</html>
+<body>
+
+<h1 style="color:"Tomato"> <b> National University of Fairview <br><br> Kaplan, Zuhat O. </b> </h1>
+<h2> <i> 21 years old </i> </h2>
+<h3> lives in QC </h3>
+<h4> loves coffee </h4>
+<h5> Masarap ang Kangkong chips </h5>
+<h6> Favorite <br> color <br> is black </h6>
+
+<br><br>
+
+<a href="https://onlineapp.national-u.edu.ph/projectnuis/login.php"> National University NUIS </a>
+
+<br<br>
+
+<p> "To be or not to be? that is the question"</p>
+<p><pre> "It is what it is"<pre></p>
+
+</body>
+</html>
